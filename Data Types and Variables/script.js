@@ -1,4 +1,4 @@
-// Problem 1. Start Here
+// Problem 1. Starts Here
 
 var intLiterals = 24;
 var floatLiterals = 51.0159;
@@ -12,11 +12,11 @@ var arrayLiterals = [15, 12, 14];
 var undefinedLiterals = undefined;
 var nullLiterals = null;
 
-// Problem 2. Start Here
+// Problem 2. Starts Here
 
 var stringQuoted = " `'How you doin'?', Joey said'.";
 
-// Problem 3. Start Here
+// Problem 3. Starts Here
 
 var typeIntLiterals = typeof(intLiterals);
 var typeFloatLiterals = typeof(floatLiterals);
@@ -27,7 +27,7 @@ var typeArrayLiterals = typeof(arrayLiterals);
 var typeNullLiterals = typeof(nullLiterals);
 var typeUndefinedLiterals = typeof(undefinedLiterals);
 
-// Problem 4. Start Here
+// Problem 4. Starts Here
 
 var typeUndefinedLiterals = typeof(undefinedLiterals);
 var typeNullLiterals = typeof(nullLiterals);
